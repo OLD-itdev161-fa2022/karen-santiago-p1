@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/itdev161-fa2022/karen-santiago-p1/issues"
   },
-  "homepage": "https://github.com/itdev161-fa2022/karen-santiago-p1#readme"
+  "homepage": "https://github.com/itdev161-fa2022/karen-santiago-p1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.2",
+    "mongoose": "^6.0.10"
+  },
+  "devDependencies": {
+    "concurrently": "^6.3.0",
+    "nodemon": "^2.0.13"
+  }
 }
